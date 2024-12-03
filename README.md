@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jannco&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</a>
+[My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jannco&theme=tokyonight&layout=compact)
 
 <!--
 ## Hi there 👋
