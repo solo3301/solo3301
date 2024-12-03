@@ -1,4 +1,7 @@
-[My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jannco&theme=tokyonight&layout=compact)
+## My stats
+
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cinnamonsroll&theme=tokyonight&layout=compact)
+
 
 <!--
 ## Hi there 👋
