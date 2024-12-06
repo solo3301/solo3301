@@ -1,4 +1,4 @@
-👋 Hi, I'm Yaroslav!<br><br>
+## 👋 Hi, I'm Yaroslav!<br><br>
 ### 🔭 I'm currently studying Software development at [42 Lisboa](https://www.42lisboa.com)<br>
 ### 👯 I am in the market for more C and Python projects in the future<br
 ---
