@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Yaroslav!<br>
-### 🔭 I'm currently studying Computer Engineer at [42 Lisboa](https://www.42lisboa.com)<br>
+### 🔭 I'm currently studying Software Engineer at [42 Lisboa](https://www.42lisboa.com)<br>
 ### 👯 I am in the market for more C, C++ and Python projects in the future
 ---
 ## 📊 GitHub Stats:
